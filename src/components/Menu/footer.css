@@ -1,0 +1,11 @@
+.footer {
+    width:100%;
+    background-color: rgb(178, 13, 41);
+    color: #FFFFFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.material-icons{
+    color: #FFF;
+}
